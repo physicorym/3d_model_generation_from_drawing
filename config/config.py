@@ -1,0 +1,4 @@
+
+DATA_DIR = "data/"
+SIZE = 224
+DEVICE = "CPU"
